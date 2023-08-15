@@ -1,4 +1,4 @@
-/**
+/**nextjs 
  * Function must implement ActionFn. Event payload depends on a configured trigger.
  */
 export type ActionFn = (ctx: Context, event: Event) => Promise<any>;
