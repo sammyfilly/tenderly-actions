@@ -232,3 +232,4 @@ export type GatewayNetwork = Extract<Network,
     Network.SEPOLIA |
     Network.POLYGON |
     Network.MUMBAI>
+
